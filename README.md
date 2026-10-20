@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/DTAtoCSV-preview.png?v=1.0.1" width="128" height="128" alt="DTA → CSV app icon">
+  <img src="docs/app-icon.png" width="128" height="128" alt="DTA → CSV app icon">
 </p>
 
 <h1 align="center">DTA → CSV</h1>
@@ -72,4 +72,4 @@ python3 progress_check.py
 ./build_release.sh
 ```
 
-The build includes the converter, generates the app icon from `docs/DTAtoCSV-preview.png`, and checks the bundle and archive. The release is written to `dist/DTA-to-CSV-AppleSilicon.zip`.
+The build includes the converter, generates the app icon from `docs/app-icon.png`, and checks the bundle and archive. The release is written to `dist/DTA-to-CSV-AppleSilicon.zip`.

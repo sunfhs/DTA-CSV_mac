@@ -8,7 +8,7 @@ from PIL import Image
 root = Path(__file__).parent
 iconset = root / "build/DTAtoCSV.iconset"
 iconset.mkdir(parents=True, exist_ok=True)
-base = Image.open(root / "docs/DTAtoCSV-preview.png").convert("RGBA")
+base = Image.open(root / "docs/app-icon.png").convert("RGBA")
 
 for size in [16, 32, 128, 256, 512]:
     for scale in [1, 2]:
