@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/DTAtoCSV-preview.png" width="128" height="128" alt="DTA → CSV app icon">
+  <img src="docs/DTAtoCSV-preview.png?v=1.0.1" width="128" height="128" alt="DTA → CSV app icon">
 </p>
 
 <h1 align="center">DTA → CSV</h1>
