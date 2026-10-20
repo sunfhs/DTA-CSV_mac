@@ -171,7 +171,7 @@ final class AppDelegate: NSObject, NSApplicationDelegate {
     }
 
     private func buildWindow() {
-        window.title = "DTA -> CSV"
+        window.title = "DTA → CSV"
         window.center()
 
         guard let content = window.contentView else { return }
